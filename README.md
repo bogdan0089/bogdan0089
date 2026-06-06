@@ -9,6 +9,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonaws&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-6DB33F?logoColor=white)
 
 Building production-grade async backend systems. Clean Architecture. Real deployments. AI-powered features.
 
@@ -21,6 +23,8 @@ Building production-grade async backend systems. Clean Architecture. Real deploy
 - 🤖 Integrated AI/LLM features into production — **Groq API (LLaMA 3.3-70b)**: recommendations, semantic search, chatbot, description generation
 - ☁️ Independently deployed a full e-commerce backend on **AWS EC2** — from architecture to running server
 - 🔁 Set up **CI/CD pipeline** with GitHub Actions — automated tests + auto-deploy to EC2 on every merge
+- 💰 Built a **personal finance API** with AI spending insights — accounts, budgets, goals, Groq-powered analysis
+- 🔗 Experience with **microservices architecture** and async message queuing — RabbitMQ, CRM integrations
 - 🌍 Based in Warsaw, Poland | Polish C2 | English B1 | Ukrainian native
 - 📡 Open to remote and hybrid Python Backend roles
 
@@ -28,19 +32,19 @@ Building production-grade async backend systems. Clean Architecture. Real deploy
 
 ## 🛠️ Tech Stack
 
-Backend   : FastAPI · Django · asyncio · WebSockets · Celery · REST API
-Databases : PostgreSQL · Redis · SQLite · SQLAlchemy (async) · Alembic
-AI & LLM  : Groq API · LLaMA 3.3-70b · prompt engineering · agentic coding
-Auth      : JWT · bcrypt · OAuth2 · Pydantic V2 · Stripe API
-Testing   : pytest · Postman · Swagger / OpenAPI
-DevOps    : Docker · Docker Compose · AWS EC2 · GitHub Actions · Nginx · Linux
-Tools     : Git · Jira · Claude Code · Cursor
-
-
+Backend      : FastAPI · Django · asyncio · WebSockets · Celery · RabbitMQ · REST API
+Architecture : 3-layer (Router → Service → Repository) · Clean Architecture · Microservices
+Databases    : PostgreSQL · Redis · SQLite · SQLAlchemy 1.4 & 2.0 (async) · Alembic
+AI & LLM     : Groq API · LLaMA 3.3-70b · prompt engineering · agentic coding
+Auth         : JWT (access + refresh) · bcrypt · OAuth2 · Auth0 · Pydantic V2 · Stripe API
+Frontend     : Vue.js · Next.js · JavaScript · CSS
+Testing      : pytest · pytest-asyncio · Postman · Swagger / OpenAPI
+DevOps       : Docker · Docker Compose · AWS EC2 · GitHub Actions · Nginx · Linux
+Tools        : Git · Jira · Claude Code
 
 ---
 
-## 🔥 Featured Project — Live on AWS
+## 🔥 Featured Projects
 
 ### 🛒 [FastAPI E-Commerce Backend](https://github.com/bogdan0089/fastapi-ecommerce-backend)
 
@@ -66,6 +70,20 @@ Production-ready async REST API — independently built, deployed and maintained
 
 ---
 
+### 💰 [Smart Budget API](https://github.com/bogdan0089/Budget-API)
+
+Personal finance REST API with AI-powered spending insights.
+
+| Feature | Details |
+|---------|---------|
+| 🏗️ Architecture | 3-layer — Router → Service → Repository, SQLAlchemy 2.0 async |
+| 🤖 AI | Groq API (LLaMA 3.3-70b) — spending analysis + finance chat |
+| 📊 Finance logic | Accounts, transactions, monthly budgets, savings goals |
+| 🔐 Auth | JWT, bcrypt, per-user data isolation |
+| 🧪 Testing | 28 async mock tests with pytest-asyncio |
+
+---
+
 ## 💼 Experience
 
 **Python Backend Developer @ SECL Group** *(Jan 2025 – Mar 2026)*
@@ -79,7 +97,7 @@ Production-ready async REST API — independently built, deployed and maintained
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/bohdan-kaliushyk-b977443b6)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bohdankaliushyk@gmail.com)
 [![Live Project](https://img.shields.io/badge/Live_Project-bohdan--shop.duckdns.org-009688?logo=fastapi&logoColor=white)](https://bohdan-shop.duckdns.org)
 
