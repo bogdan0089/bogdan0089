@@ -18,7 +18,7 @@ Building production-grade async backend systems. Clean Architecture. Real deploy
 
 ## 🚀 About Me
 
-- 💼 1.5+ years of commercial experience building production backend systems
+- 💼 2+ years of commercial experience building production backend systems
 - 🏭 Built and maintained a live CRM platform at **SECL Group** — FastAPI, PostgreSQL, Redis, WebSockets
 - 🤖 Integrated AI/LLM features into production — **Groq API (LLaMA 3.3-70b)**: recommendations, semantic search, chatbot, description generation
 - ☁️ Independently deployed a full e-commerce backend on **AWS EC2** — from architecture to running server
