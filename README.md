@@ -125,7 +125,7 @@ A growing collection of small, self-contained Python CLI tools.
 
 ## 💼 Experience
 
-**Python Backend Developer @ UnderTalk** *(Apr 2026 – Present)*
+**Middle FullStack Python Developer @ UnderTalk** *(Apr 2026 – Present)*
 - Backend engineer on a call-center CRM built from scratch — FastAPI, PostgreSQL, Redis, Celery, RabbitMQ
 - Built a configurable discipline rules engine and a weighted client-complexity analytics model
 - Integrated Binotel telephony, an external CRM and Viber chat for operators, with media in MinIO
