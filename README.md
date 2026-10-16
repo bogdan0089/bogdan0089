@@ -82,7 +82,7 @@ Scrapes Amazon best sellers with Playwright, reads demand dynamics on Google Tre
 
 ![CI](https://img.shields.io/badge/CI-passing-brightgreen) ![CD](https://img.shields.io/badge/CD-auto--deploy-blue) ![Tests](https://img.shields.io/badge/tests-65-brightgreen)
 
-🌐 Live: [bohdan-shop.duckdns.org](https://bohdan-shop.duckdns.org) · Swagger: `/docs`
+🌐 Live: [bohdan-shop.duckdns.org](https://shop.bondanweb.duckdns.org/) · Swagger: `/docs`
 
 Production-ready async REST API and storefront — independently built, deployed and maintained on AWS EC2.
 
